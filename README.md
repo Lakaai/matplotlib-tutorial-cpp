@@ -57,6 +57,7 @@ plt.show()
 
 1. **Install Matplotlib for C++**
 ```bash
+mkdir include
 cd include
 git clone https://github.com/lava/matplotlib-cpp.git 
 ```

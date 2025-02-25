@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/plot_example.dir/src/main.cpp.o -o plot_example  -Wl,-rpath,/home/linuxbrew/.linuxbrew/Cellar/python@3.13/3.13.2/lib /home/linuxbrew/.linuxbrew/Cellar/python@3.13/3.13.2/lib/libpython3.13.so

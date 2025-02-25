@@ -1,3 +1,0 @@
-/home/luke/Gaimersheim_a2d2/plot_example/build/CMakeFiles/plot_example.dir
-/home/luke/Gaimersheim_a2d2/plot_example/build/CMakeFiles/edit_cache.dir
-/home/luke/Gaimersheim_a2d2/plot_example/build/CMakeFiles/rebuild_cache.dir
